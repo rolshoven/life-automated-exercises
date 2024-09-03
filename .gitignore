@@ -1,0 +1,7 @@
+credentials/
+**/.DS_Store
+**/.env
+*.code-workspace
+**/.ipynb_checkpoints
+**/credentials.json
+**/token.pickle
